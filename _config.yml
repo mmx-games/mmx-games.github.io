@@ -1,0 +1,7 @@
+url: "http://mmxgames.github.io"
+name: "MMX games"
+description: "MMX games: mobile games development"
+
+encoding: UTF-8
+markdown: rdiscount
+permalink: pretty
